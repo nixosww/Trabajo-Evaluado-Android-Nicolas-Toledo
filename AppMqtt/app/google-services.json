@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "620545084811",
+    "project_id": "proyectofireandroidevaluado",
+    "storage_bucket": "proyectofireandroidevaluado.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620545084811:android:b913a75d266dea3ae5f38e",
+        "android_client_info": {
+          "package_name": "com.stomas.appmqtt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsYGt-nihqmSO9T1PCmpG96iHvdkg9yf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
